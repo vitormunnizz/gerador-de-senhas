@@ -1,22 +1,22 @@
-# 🔑 Gerador de Senhas
+# Gerador de Senhas
 
 Um simples **gerador de senhas seguras** desenvolvido com **HTML, CSS e JavaScript**.
 Permite criar senhas fortes de forma rápida e prática, personalizando tamanho e complexidade.
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 * Geração de senhas aleatórias
 * Definição do tamanho da senha
 * Inclusão de letras maiúsculas, minúsculas, números e símbolos
 * Interface simples e responsiva
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **HTML5** → estrutura do projeto
 * **CSS3** → estilização e layout responsivo
 * **JavaScript (ES6+)** → lógica de geração de senhas
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 gerador_de_senhas-main/
@@ -26,7 +26,7 @@ gerador_de_senhas-main/
 └── README.md      # Documentação do projeto
 ```
 
-## 💻 Como Usar
+## Como Usar
 
 1. Baixe ou clone este repositório:
 
@@ -37,7 +37,7 @@ gerador_de_senhas-main/
 3. Escolha as opções desejadas
 4. Clique em **Gerar senha**
 
-## 🤝 Contribuição
+## Contribuição
 
 Contribuições são sempre bem-vindas!
 Para contribuir:
