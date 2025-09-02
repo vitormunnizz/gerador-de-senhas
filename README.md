@@ -1,32 +1,52 @@
-# Projeto de Business Intelligence - BecomeX
+# 🔑 Gerador de Senhas
 
-Este repositório apresenta um projeto de Business Intelligence desenvolvido para a empresa **BecomeX**, com o objetivo de monitorar e analisar dados de exportação de produtos agrícolas, oferecendo insights estratégicos para a tomada de decisão. O painel interativo foi construído com foco em visualização clara de KPIs e tendências de mercado. Ele contém dados de exportação por país, estado, produto e tipo de produto, bem como informações de receita mensal e participação de mercado.
+Um simples **gerador de senhas seguras** desenvolvido com **HTML, CSS e JavaScript**.
+Permite criar senhas fortes de forma rápida e prática, personalizando tamanho e complexidade.
 
-## Acesso o Dashboard
+## 📌 Funcionalidades
 
-[Clique aqui para acessar o dashboard interativo no Looker Studio](https://lookerstudio.google.com/reporting/fad274f1-4028-4560-acb8-dd91679eab9b)
+* Geração de senhas aleatórias
+* Definição do tamanho da senha
+* Inclusão de letras maiúsculas, minúsculas, números e símbolos
+* Interface simples e responsiva
 
-## Principais Métricas e Visualizações:
+## 🛠️ Tecnologias Utilizadas
 
-* **Participação de Mercado por Produto**
-* **Valor Vendido por Mês**
-* **Valor Vendido por Produto**
-* **Valor Vendido por Tipo de Produto**
-* **Quantidade de Produtos Exportados por País**
-* **Valor Exportado por Estado**
-* **Mapa Mundial de Exportações**
+* **HTML5** → estrutura do projeto
+* **CSS3** → estilização e layout responsivo
+* **JavaScript (ES6+)** → lógica de geração de senhas
 
-## Preparação dos Dados
+## 📂 Estrutura do Projeto
 
-A base de dados utilizada para construção do dashboard passa por um processo de limpeza, transformação e organização
+```
+gerador_de_senhas-main/
+│── index.html     # Estrutura da aplicação
+│── style.css      # Estilos da interface
+│── script.js      # Lógica do gerador de senhas
+└── README.md      # Documentação do projeto
+```
 
-* Leitura dos dados brutos
-* Padronização de nomes de produtos e categorias
-* Conversão de valores e moedas
-* Tratamento de dados faltantes
-* Receita total por país
-* Classificação por tipo de produto
-* Identificação de sazonalidade
+## 💻 Como Usar
+
+1. Baixe ou clone este repositório:
+
+   ```bash
+   git clone https://github.com/usuario/gerador_de_senhas.git
+   ```
+2. Abra o arquivo `index.html` no navegador
+3. Escolha as opções desejadas
+4. Clique em **Gerar senha**
+
+## 🤝 Contribuição
+
+Contribuições são sempre bem-vindas!
+Para contribuir:
+
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
+3. Commit suas alterações (`git commit -m 'Adiciona nova feature'`)
+4. Push para a branch (`git push origin minha-feature`)
+5. Abra um Pull Request
 
 ## Contato
 Para dúvidas ou sugestões, entre em contato pelo e-mail: vitormunnizz@gmail.com.
